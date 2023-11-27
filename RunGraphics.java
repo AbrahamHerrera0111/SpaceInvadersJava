@@ -39,7 +39,7 @@ public class RunGraphics {
 
     // The main method
     public static void main(String... argv) {
-        System.out.println("holamundo22323");
+        System.out.println("holamundo223545");
         //new RunGraphics();
 
     }
