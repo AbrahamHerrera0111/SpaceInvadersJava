@@ -39,7 +39,8 @@ public class RunGraphics {
 
     // The main method
     public static void main(String... argv) {
-        new RunGraphics();
+        System.out.println("holamundo");
+        //new RunGraphics();
 
     }
 
